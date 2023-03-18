@@ -84,6 +84,8 @@ label{
     font-size: 50px;
   }
   #input{
-    position:relative;
+    position:absolute;
+    right: 5rem;
+    
   }
 }
