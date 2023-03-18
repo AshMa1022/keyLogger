@@ -78,9 +78,9 @@ label{
 
 }
 
-@media only screen and (min-width:576px){
+@media only screen and (max-width:1100px){
   #title{
-    font-size: 24px;
+    font-size: 50px;
   }
   #input{
     position:relative;
