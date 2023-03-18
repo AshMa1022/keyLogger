@@ -80,10 +80,10 @@ label{
 
 @media only screen and (max-width:768px){
   #title{
-    font-size: 32px;
+    font-size: 24px;
   }
   #input{
     position:relative;
-    right:0%;
+    left:0%;
   }
 }
