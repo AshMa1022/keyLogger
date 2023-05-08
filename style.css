@@ -69,7 +69,8 @@ label{
 
 #input{
   position: absolute;
-  right:10%;
+  right:10px;
+  
 }
 
 #header{
@@ -85,7 +86,7 @@ label{
   }
   #input{
     position:absolute;
-    right: 5rem;
+    right: 10px;
     
   }
 }
