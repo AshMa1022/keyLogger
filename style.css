@@ -84,11 +84,11 @@ label{
   #title{
     font-size: 50px;
   }
-  
+
   #input{
     position:absolute;
     right: 10px;
-    top: 20px;
+    bottom: 20px;
     
   }
 }
