@@ -86,7 +86,8 @@ label{
   }
   #input{
     position:absolute;
-    right: 10px;
+    right: 5%;
+    top: 10%;
     
   }
 }
